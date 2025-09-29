@@ -1,0 +1,21 @@
+{
+  "name": "techforge4-trilhas",
+  "version": "1.0.0",
+  "description": "Exercícios de TypeScript da matéria TechForge 4 - Trilha",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node"
+  },
+  "keywords": [
+    "typescript",
+    "exercicios",
+    "techforge",
+    "trilha"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
