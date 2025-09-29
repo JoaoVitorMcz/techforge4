@@ -4,7 +4,7 @@
   "description": "Exercícios de TypeScript da matéria TechForge 4 - Trilha",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node"
+    "start": "npx ts-node"
   },
   "keywords": [
     "typescript",
